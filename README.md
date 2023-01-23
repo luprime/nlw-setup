@@ -8,7 +8,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar](https://luprime.github.io/nlw-flimes-explorer)
+[🔗 Clique aqui para acessar o projeto online](https://luprime.github.io/nlw-setup)
 
 ## 👨‍💻 Tecnologia
 
