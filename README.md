@@ -1,6 +1,8 @@
-# NLW Filmes e Séries
+# NLW Habits
 
-![preview](./.github/cover.jpg)
+<p align="center">
+  <img alt = "projeto Habits" src=".github/Cover.jpg" width="100%">
+  </p>
 
 > Trilha Explorer Desafio Extra
 
